@@ -3,7 +3,7 @@
 <h3 align="center">A passionate developer in the Philippines</h3>
 <img align="right" alt="Coding" width="400" src="https://raj-rathod.github.io/rajesh-rathore/assets/images/developer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keithcyrilldiaz&label=Profile%20views&color=0e75b6&style=flat" alt="keithcyrilldiaz" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kdiaz-junior-soft-eng&label=Profile%20views&color=0e75b6&style=flat" alt="keithcyrilldiaz" /> </p>
 
 
 
