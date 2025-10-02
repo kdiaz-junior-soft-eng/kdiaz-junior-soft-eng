@@ -5,14 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keithcyrilldiaz&label=Profile%20views&color=0e75b6&style=flat" alt="keithcyrilldiaz" /> </p>
 
-- 🔭 I’m currently recreating our Thesis using TypeScript on **💻[Kalinga - TS](https://github.com/KeithCyrillDiaz/Kalinga-TS) (Thesis Project)**
-
-- 🌱 I’m currently learning **React Native, TypeScript, Node and Express**
-
-- 📫 How to reach me **keithalbarinadiaz0317@gmail.com**
-
-- ⚡ Fun fact **I'm a Baptist**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/keith.diaz.58/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="keithdiazunique" height="30" width="40" /></a>
@@ -26,6 +18,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keithcyrilldiaz&show_icons=true&locale=en&layout=compact&langs_count=10&include_all_commits=true&count_private=true" alt="keithcyrilldiaz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keithcyrilldiaz&show_icons=true&locale=en" alt="keithcyrilldiaz" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keithcyrilldiaz&" alt="keithcyrilldiaz" /></p>
 
